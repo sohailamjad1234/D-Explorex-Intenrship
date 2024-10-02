@@ -1,0 +1,63 @@
+Functions in Python (Simplified Real-Life Tasks):
+Task: Bill Calculator for a Restaurant
+
+Description: Write a function that takes a list of food item prices and calculates the total bill. Optionally, the function should also calculate a tip (e.g., 10%) if the user requests it.
+Hint: Use a list of prices and a function to sum them. Use an optional parameter for the tip calculation.
+Task: Convert Temperature from Fahrenheit to Celsius
+
+Description: Write a function that takes a temperature in Fahrenheit and returns the temperature in Celsius.
+Hint: Use the formula: C = (F - 32) * 5/9.
+Task: Simple Calculator
+
+Description: Write a function that takes two numbers and an operator (+, -, *, /) and returns the result of the calculation.
+Hint: Use conditional statements to check the operator and apply the correct operation.
+Task: Create a Greeting Message
+
+Description: Write a function that takes a user’s name and the current time of day, and returns a greeting like "Good morning, [Name]!"
+Hint: Use a time_of_day parameter to personalize the greeting.
+Task: Find the Largest Number in a List
+
+Description: Write a function that takes a list of numbers and returns the largest number.
+Hint: Use Python’s built-in max() function or manually loop through the list to find the largest number.
+Loops in Python (Simplified Real-Life Tasks):
+Task: Print Even Numbers
+
+Description: Write a loop that prints all even numbers between 1 and 100.
+Hint: Use the modulo operator (%) to check if a number is even, and a loop to iterate through the range.
+Task: Count Down Timer
+
+Description: Write a loop that acts as a countdown timer, starting from a number input by the user and counting down to zero.
+Hint: Use a while loop to decrease the number until it reaches zero.
+Task: Calculate the Sum of Numbers from 1 to N
+
+Description: Write a loop that calculates the sum of all numbers from 1 to a user-specified number N.
+Hint: Use a for loop to iterate through the numbers and keep a running total.
+Task: Print Multiplication Table
+
+Description: Write a loop that prints the multiplication table for a number provided by the user.
+Hint: Use a for loop to print the product of the number and integers from 1 to 10.
+Task: Count the Number of Vowels in a String
+
+Description: Write a loop that counts how many vowels (a, e, i, o, u) are in a given string.
+Hint: Loop through each character in the string and check if it is a vowel.
+Lists in Python (Simplified Real-Life Tasks):
+Task: Shopping List Organizer
+
+Description: Create a list that stores items for a shopping list. Allow the user to add, remove, and view items from the list.
+Hint: Use append() to add items, remove() to delete items, and print the list to display it.
+Task: Reverse a List
+
+Description: Write a function that takes a list and returns it reversed (e.g., input [1, 2, 3] returns [3, 2, 1]).
+Hint: You can use slicing [::-1] or a loop to reverse the list manually.
+Task: Find the Average of a List of Numbers
+
+Description: Write a function that takes a list of numbers and returns the average of the numbers.
+Hint: Use the sum() function to calculate the total, and then divide by the length of the list using len().
+Task: Count Occurrences of an Item in a List
+
+Description: Write a function that takes a list and an item as input and counts how many times that item appears in the list.
+Hint: Use a loop to go through each element in the list and count matches.
+Task: Combine Two Lists
+
+Description: Write a function that takes two lists and combines them into a single list.
+Hint: Use the + operator or the extend() method to combine the lists
